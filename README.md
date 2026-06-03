@@ -1,4 +1,4 @@
-# Micropad
+# Macropad
 
 A custom 6-key macropad built around the Seeed Studio XIAO RP2040, featuring two rotary encoders, RGB lighting, and Cherry MX mechanical switches.
 
